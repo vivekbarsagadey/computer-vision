@@ -1,0 +1,10 @@
+pip
+matplotlib
+pandas
+scikit-learn
+pyttsx3
+pywin32
+jupyterlab
+opencv-python
+ipykernel
+statsmodels
